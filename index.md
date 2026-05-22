@@ -43,7 +43,7 @@ While buying or using our tools, We may ask You to provide Us with certain perso
 *   Company Name
 
 #### Usage Data
-Usage Data is collected automatically when buying or using the tools. *(Nota: Si tu Add-in no recopila datos de uso automáticamente dentro de Revit, puedes eliminar esta línea).*
+Usage Data is collected automatically when buying or using the tools. 
 
 ### Use of Your Personal Data
 The Company may use Personal Data for the following purposes:
