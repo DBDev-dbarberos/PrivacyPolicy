@@ -1,6 +1,5 @@
 ---
 layout: default
-title: TrasnferPlus Revit addin
 ---
 
 # Privacy Policy
